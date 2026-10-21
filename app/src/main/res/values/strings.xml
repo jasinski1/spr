@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <array name="kluby">
+        <item>barcelona</item>
+        <item>real</item>
+        <item>gornik</item>
+    </array>
+</resources>
